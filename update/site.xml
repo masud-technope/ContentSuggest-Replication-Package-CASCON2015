@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+   <feature url="features/CSFeature_1.0.0.201405141723.jar" id="CSFeature" version="1.0.0.201405141723">
+      <category name="ContentSuggest"/>
+   </feature>
+   <category-def name="ContentSuggest" label="Webpage Content Recommender"/>
+</site>
